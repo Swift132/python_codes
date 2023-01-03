@@ -7,7 +7,7 @@ pessoas = {
     "Pessoa 2": {"nome": "Maria", "idade": 25, "genero": "Feminino"},
     "Pessoa 3": {"nome": "Carlos", "idade": 35, "genero": "Masculino"},
     "Pessoa 4": {"nome": "Ana", "idade": 22, "genero": "Feminino"},
-    "Pessoa 5": {"nome": "Luiz", "idade": 40, "genero": "Masculino"},
+    "Pessoa 5": {"nome": "Luis", "idade": 40, "genero": "Masculino"},
     "Pessoa 6": {"nome": "Carla", "idade": 29, "genero": "Feminino"},
     "Pessoa 7": {"nome": "Pedro", "idade": 32, "genero": "Masculino"},
     "Pessoa 8": {"nome": "Julia", "idade": 24, "genero": "Feminino"},
